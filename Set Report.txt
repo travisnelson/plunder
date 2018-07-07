@@ -1,0 +1,111 @@
+Set.swf Movie Report
+---------------------
+
+Metadata
+--------
+Bytes    Value
+-----    -----
+ 1025    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:MetadataDate>2009-09-14T12:48:25+02:00</xmp:MetadataDate> <xmp:ModifyDate>2009-09-14T12:48:25+02:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:D8B7045E1BA1DE119A709DFB9B066886</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:D8B7045E1BA1DE119A709DFB9B066886</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:9DC28A79909FDE11ACABD0BA8C1E7E98</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:9DC28A79909FDE11ACABD0BA8C1E7E98</stRef:instanceID> <stRef:documentID>xmp.did:9DC28A79909FDE11ACABD0BA8C1E7E98</stRef:documentID> <stRef:originalDocumentID>xmp.did:9DC28A79909FDE11ACABD0BA8C1E7E98</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          33629          33629    Scene 1
+      2         153058         186687     (AS 3.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0          1958                 11079
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+mc_striped_silver_coin                 0             0                     0
+mc_striped_silver_bottle               0             0                     0
+mc_striped_gold_skull                  0             0                     0
+mc_striped_gold_coin                   0             0                     0
+mc_striped_gold_bottle                 0             0                     0
+mc_striped_blood_skull                 0             0                     0
+mc_striped_blood_coin                  0             0                     0
+mc_striped_blood_bottle                0             0                     0
+mc_solid_silver_skull                  0             0                     0
+mc_solid_silver_coin                   0             0                     0
+mc_solid_silver_bottle                 0             0                     0
+mc_solid_gold_skull                    0             0                     0
+mc_solid_gold_coin                     0             0                     0
+mc_solid_gold_bottle                   0             0                     0
+mc_solid_blood_skull                   0             0                     0
+mc_solid_blood_coin                    0             0                     0
+mc_solid_blood_bottle                  0             0                     0
+mc_hollow_silver_skull                 0             0                     0
+mc_hollow_silver_coin                  0             0                     0
+mc_hollow_silver_bottle                0             0                     0
+mc_hollow_gold_skull                   0             0                     0
+mc_hollow_gold_coin                    0             0                     0
+mc_hollow_gold_bottle                  0             0                     0
+mc_hollow_blood_skull                  0             0                     0
+mc_hollow_blood_coin                   0             0                     0
+mc_hollow_blood_bottle                 0             0                     0
+mc_striped_silver_skull                0             0                     0
+cardBase                               0             0                     0
+loaderBarType                         52             0                     0
+loaderBarFrame                        52             0                     0
+instructionsClass                      0           315                     0
+XedOut                                 0             0                     0
+Ants                                   0             0                     0
+drawBtnClass                          35             0                     0
+placeholders                           0             0                     0
+placeholder                            0             0                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+UglyQua                       24253    
+
+ActionScript Bytes    Location
+------------------    --------
+              7935    Scene 1:Frame 1
+              3144    Scene 1:Frame 2
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+ants1.png                        580       15200   Lossless
+ants2.png                        629       15200   Lossless
+xed.png                         7682      120000   JPEG Quality=80
+old_paper2.png                 37718      194340   JPEG Quality=80
+frame1.png                      6760      120000   Lossless
+card_base.gif                    815       15200   Lossless
+striped_silver_skull.png        1438        2304   Lossless
+hollow_blood_bottle.png          844        2640   Lossless
+hollow_blood_coin.png           1074        2112   Lossless
+hollow_blood_skull.png          1318        2304   Lossless
+hollow_gold_bottle.png           828        2640   Lossless
+hollow_gold_coin.png            1086        2112   Lossless
+hollow_gold_skull.png           1382        2304   Lossless
+hollow_silver_bottle.png         832        2640   Lossless
+hollow_silver_coin.png          1080        2112   Lossless
+hollow_silver_skull.png         1360        2304   Lossless
+solid_blood_bottle.png          1097        2640   Lossless
+solid_blood_coin.png            1688        2112   Lossless
+solid_blood_skull.png           1461        2304   Lossless
+solid_gold_bottle.png           1130        2640   Lossless
+solid_gold_coin.png             1705        2112   Lossless
+solid_gold_skull.png            1512        2304   Lossless
+solid_silver_bottle.png         1128        2640   Lossless
+solid_silver_coin.png           1706        2112   Lossless
+solid_silver_skull.png          1489        2304   Lossless
+striped_blood_bottle.png        1026        2640   Lossless
+striped_blood_coin.png          1497        2112   Lossless
+striped_blood_skull.png         1418        2304   Lossless
+striped_gold_bottle.png         1058        2640   Lossless
+striped_gold_coin.png           1529        2112   Lossless
+striped_gold_skull.png          1439        2304   Lossless
+striped_silver_bottle.png       1072        2640   Lossless
+striped_silver_coin.png         1551        2112   Lossless
+wood_texture.jpg               34345     2048000   Imported JPEG=102
+placeholder_invis.png             82       60000   Lossless
+frame2.png                      4560      120000   JPEG Quality=80
+frame3.png                      5798      120000   JPEG Quality=80
+frame4.png                      5081      120000   JPEG Quality=80
+frame5.png                      4893      120000   JPEG Quality=80
+
+
+
+
